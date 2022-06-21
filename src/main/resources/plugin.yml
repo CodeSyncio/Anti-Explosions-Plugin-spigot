@@ -1,0 +1,7 @@
+name: AntiExplosions
+version: '${project.version}'
+main: ferrevdd.projects.antiexplosions.main
+api-version: 1.18
+authors: [ FerreVdd ]
+description: simple plugin that simply blocks any explosion (tnt, tnt minecarts,end crystals)
+website: https://github.com/ferrevdd
